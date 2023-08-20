@@ -1,4 +1,7 @@
-### Hi there 👋
+ #### About me
+- 💖 I'm passionate about coding.
+- 👩‍💻 I specialize in front-end development to build responsive and user-friendly websites.
+- 😃 I also have experience in back-end development for APIs and databases.
 
 <!--
 **shujie1st/shujie1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
